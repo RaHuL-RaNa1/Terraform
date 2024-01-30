@@ -1,7 +1,7 @@
 /*provider "aws" {
         region = "us-east-2"
-        access_key = "AKIA4AJZZJZHNCSSYTWD"
-        secret_key = "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"
+        access_key = "AKIA4AJZZJZHNCYTWD"
+        secret_key = "uDazzqx7sv9jGmrVHVFhedZWQKTp3/hwY5Paxf"
 }*/
 
 provider "aws" {
